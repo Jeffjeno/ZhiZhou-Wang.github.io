@@ -21,7 +21,7 @@ Education
 * **Cumulative GPA**: 3.833/4.0  
 * **Rank**: 1/50 (截至 2024 学年)
 
-# Research Directions
+Research Directions
 ======
 * Superpixel segmentation and deep learning-based methods for hyperspectral image reconstruction and quality assessment, with a particular focus on snapshot compressive sensing systems such as CASSI.
 * Improvements on Low-Rank Adaptation (LoRA) techniques in neural network fine-tuning.
@@ -43,7 +43,7 @@ Skills
 * Programming Languages: Python, C++, MATLAB,Java
   
   
-# Awards and Honors
+Awards and Honors
 ======
 * **2024.9**: National Scholarship(国家奖学金)
 * **2024.9**: 计算机与人工智能学院三好学生标兵
