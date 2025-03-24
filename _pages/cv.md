@@ -11,54 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **B.S. in Artificial Intelligence**, Southwest Jiaotong University, 2023~2027
+  * **GPA by Semester**:
+    * **Fall 2023**: GPA 3.913/4.0, Rank: 1/50
+    * **Spring 2024**: GPA 3.814/4.0, Rank: 1/50
+    * **Fall 2024**: GPA 3.788/4.0, Rank: 3/50 
+
+
+* **Cumulative GPA**: 3.833/4.0  
+* **Rank**: 1/50 (截至 2024 学年)
+
+# Research Directions
+======
+* Superpixel segmentation and deep learning-based methods for hyperspectral image reconstruction and quality assessment, with a particular focus on snapshot compressive sensing systems such as CASSI.
+* Improvements on Low-Rank Adaptation (LoRA) techniques in neural network fine-tuning.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Summer 2024**: Software Engineering Intern  
+  * Participated in the development and maintenance of the **RuoYi v3.8.3** framework — a full-stack Java rapid development platform based on **Spring Boot** and **Vue**.  
+  * Contributed to front-end and back-end separation modules, including:
+    * User and role management system  
+    * Dynamic permission menu loading and JWT-based authentication  
+    * Code generator for CRUD APIs and database integration  
+    * Monitoring modules for CPU, memory, and database connection pools  
+  * Collaborated with the team to optimize performance and improve development efficiency in enterprise-level applications.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming Languages: Python, C++, MATLAB,Java
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
+# Awards and Honors
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **2024.9**: National Scholarship(国家奖学金)
+* **2024.9**: 计算机与人工智能学院三好学生标兵
