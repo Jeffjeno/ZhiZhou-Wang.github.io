@@ -47,3 +47,9 @@ Awards and Honors
 ======
 * **2024.9**: National Scholarship(国家奖学金)
 * **2024.9**: 计算机与人工智能学院三好学生标兵
+
+Projects
+======
+* **Maintainer:**[MLLM Reasoning Enhancement Guide 多模态大模型推理增强指南](https://github.com/Jeffjeno/MLLM-Reasoning-Enhancement-Guide)
+* **Contributor:**[o1-meta-prompt](https://github.com/hemangjoshi37a/o1-meta-prompt)
+  
