@@ -50,6 +50,14 @@ Awards and Honors
 
 Projects
 ======
-* **Maintainer:**[MLLM Reasoning Enhancement Guide 多模态大模型推理增强指南](https://github.com/Jeffjeno/MLLM-Reasoning-Enhancement-Guide)
-* **Contributor:**[o1-meta-prompt](https://github.com/hemangjoshi37a/o1-meta-prompt)
+### 🔧 Maintainer  
+- [**MLLM Reasoning Enhancement Guide**](https://github.com/Jeffjeno/MLLM-Reasoning-Enhancement-Guide)  
+  ⭐ **24 Stars**
+
+### 🔗 Contributor  
+- [**o1-meta-prompt**](https://github.com/hemangjoshi37a/o1-meta-prompt)  
+  ⭐ **44 Stars**
+
+- [**llm_interview_note**](https://github.com/wdndev/llm_interview_note)  
+  ⭐ **7.3k Stars**
   
